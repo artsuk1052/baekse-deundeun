@@ -1,0 +1,15 @@
+{
+  "name": "백세든든 — 노후자금 점검 플래너",
+  "short_name": "백세든든",
+  "description": "100세·120세 시대를 대비한 노후자금 점검·계획 앱",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1a3a5c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
